@@ -1,6 +1,8 @@
 # gitcommands
 All the frequently used git commands
 
+I am commiting from the UI - One
+
 04 Commit for the day
 
 05 Commit for the day
