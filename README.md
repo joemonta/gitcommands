@@ -6,3 +6,7 @@ All the frequently used git commands
 05 Commit for the day
 
 06th Commit for the day
+
+07th Commit for the day
+
+08th Commit for the day
